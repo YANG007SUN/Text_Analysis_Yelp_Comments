@@ -31,7 +31,7 @@
 ## Results
 ### Neural network performs the best when predicting the output of each reivew.
 ### Neural netword is high likely to get overfit...so we have to stop around 2, 3 epochs. 
-![dl](Images/dl.png)<br>
+![dl](Images/DL.png)<br>
 
 ### The sentiment of each review positively correlated to star ratings
 ![dl](Images/sentiment.png)<br>
