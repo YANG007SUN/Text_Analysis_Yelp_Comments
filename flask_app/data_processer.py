@@ -3,8 +3,6 @@ import numpy as np
 import nltk
 from nltk.corpus import stopwords
 nltk.download('stopwords')
-import seaborn as sns
-import matplotlib.pyplot as plt
 from textblob import Word, TextBlob
 nltk.download('wordnet')
 
